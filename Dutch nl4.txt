@@ -1,0 +1,308 @@
+Nederlandse startershulp
+Edit
+
+    * History
+
+Contents
+[show]
+
+    * 1 Over Wiki's
+          o 1.1 Wat is een wiki?
+    * 2 Aan het werk
+          o 2.1 Je Wiki account creeren.
+    * 3 De Wiki gebruiken
+          o 3.1 Artikels vinden
+          o 3.2 Recente Wijzigingen
+          o 3.3 Op de veranderingen van een artikel letten
+          o 3.4 Weten wanneer een pagina is verandert
+          o 3.5 Inloggen
+          o 3.6 Je Email, Wachtwoord, etc. veranderen
+    * 4 Bewerken
+          o 4.1 Een Wiki pagina veranderen
+          o 4.2 Een bewerking Ongedaan Maken
+          o 4.3 Tekst formatteren
+          o 4.4 Naar een andere pagina op de Wiki linken
+          o 4.5 Een nieuwe pagina aanmaken
+          o 4.6 Pagina's Hernoemen (verplaatsen)
+          o 4.7 Sjablonen gebruiken
+          o 4.8 Een afbeelding toevoegen
+          o 4.9 Pagina's catoriseren
+    * 5 Wat nu
+
+Terwijl veel mensen dat wel denken, hoef je geen technologiewizard te zijn om
+een wiki te bewerken. Als je een word tekstverwerker kan gebruiken, dan kan je
+vaak ook de Wiki aanpassen.
+
+Volg gewoon deze instructies en je zal al snel kunnen bewerken!
+
+Voor je begint...
+    Je wil misschien op onze online demo's pagina voor video demonstraties van
+alle Wikia basis en veel, veel meer - zie Help:Video demos! 
+
+Over Wiki's
+Wat is een wiki?
+
+Een wiki is een website die je kan bewerken. Het woord komt van "wikiwiki",
+een Hawaiaans voor "snel". Wiki's zijn ontworpen zodat je snel, en samen met
+andere aan een wiki kan werken, daarom is het mogelijk veel inhoud snel op te
+bouwen.
+
+Vind meer uit over de achtergrond van wiki's op Wikipedia.
+Aan het werk
+Je Wiki account creeren.
+
+File:Create an account.pngDeze "creeer een account knop (omcirkelt met rood)
+is aan rechtboven aan de pagina, naast de "Login" knop. Terwijl de meeste
+Wikia wiki's anoniem bewerkt kan worden, kan een account ervoor zorgen dat je
+je bewerkingen kan volgen, en het duurt maar een paar minuten.
+
+   1. Klik op de "maak een account" link.
+   2. Klik op de link rechts bovenaan deze pagina.
+   3. Kies een gebruikersnaam en een wachtwoord in de nieuw geopende box.
+   4. Geef je geboortedatum. Dit is een veiligheids maatregel maar ook een weg
+manier om de integriteit van de site te behouden, terwijl je je aan de
+federale regels houd.
+   5. Type het woord dat in ziet in de "captcha" afbeelding. Dit laat ons zien
+dat je een echt persoon bent. Het is ook slim om je emailadres in te voegen. 
+
+Als je ons geen bestaand email adres geeft kan je je account's wachtwoord niet
+terugvragen.
+
+        Meer... Waarom een account maken? 
+
+De Wiki gebruiken
+Artikels vinden
+
+File:Search box.pngZoek box
+
+Alle pagina's (op de Monaco skin) hebben een zoek box links bovenaan. Type
+gewoon je zoekterm hier, en klik op de zoek pijl. Een alternatief is zoek
+suggestie, begin met typen in de zoek box en het zal proberen te gokken naar
+welke artikels je zoekt.
+
+        Meer... Wikia doorzoeken 
+
+Recente Wijzigingen
+
+Recente wijzigingen is een van de meest belangrijke pagina's op een Wiki. Het
+bevat een lijst met alle bewerkingen die gemaakt worden, verteld je wie de
+veranderingen gemaakt heeft, en laat je de samenvatting die ingetypt is zien.
+Dus, het is een geweldige manier om te zien wat er gebeurt op je Wiki, en
+welke pagina's het meest actief zijn.
+
+Je kan naar de recente wijzigingen pagina gaan door op "Recente wijzigingen"
+te klikken in de toolbox links, of door naar Special:RecentChanges te gaan. Je
+kan ook op elke Wiki naar de recente wijzigingen gaan door
+Special:RecentChanges te typen na het /wiki/ deel van de Wikia URL. Voor een
+voorbeeld, om naar de Recente Wijzigingen te gaan van de Recipes Wiki, dan zou
+je http:/recipes.wikia.com/wiki/Special:RecentChanges typen.
+
+        Meer... Recente wijzigingen informatie 
+
+Op de veranderingen van een artikel letten
+
+Iedere pagina heeft een "geschiedenis" pagina die eraan vast zit. Deze bevat
+een lijst met gebruikersnamen van iedereen die de pagina bewerkt heeft, en
+verteld je wat ze hebben bewerkt. Het geeft ook links naar oude versies; niets
+gaat verloren wanneer een pagina is verandert, zodat je altijd vorige versies
+kan terughalen. Om de geschiedenis van een pagina te bekijken, zoek naar de
+"geschiedenis" link boven elk artikel.
+
+        Meer... Hoe Wiki werkt 
+
+Weten wanneer een pagina is verandert
+
+File:Watch button.pngDe volg knop heeft een afbeelding van een verrekijker
+ernaast. Je kan elke pagina "volgen" door hem toe te voegen aan een lijst van
+pagina's van jouw gebruikersnaam. Om dit te doen, klik op de "volgen" link
+bovenaan het artikel dat je wilt volgen. Je kan je voorkeuren veranderen zodat
+er een email naar je gestuurd wordt wanneer een gevolgde pagina wordt bewerkt.
+
+        Meer... Wikia volgen 
+
+Inloggen
+
+File:Login button.pngDe login knop (omcirkelt in rood) Klik op de "log in"
+link bovenaan welke pagina dan ook. Dit opent een box waar je je
+gebruikersnaam en wachtwoord kan invullen.
+
+Tip: Je wil misschien de "Onthoud mij" box niet aanvinken als je een publieke
+computer gebruikt.
+
+Note: Je moet cookies aan hebben staan om in te loggen bij Wikia (voor meer
+informatie, zie onderstaande link).
+
+        Meer... Log in problemen? 
+
+Je Email, Wachtwoord, etc. veranderen
+
+File:My preferences.pngOm je email adres, wachtwoord, etc. te veranderen, klik
+op "Meer" en kies "Mijn voorkeuren" van het drop-down menu dat verschijnt.
+Bijna alles dat je zou willen veranderen kan gevonden worden in je voorkeuren.
+Om daar heen te gaan:
+
+   1. Klik op de "MEER" knop (tussen "Volglijst" en "Logout" links).
+   2. Kies "Mijn voorkeuren" van het drop-down menu dat verschijnt. Jek an ook
+Special:Preferences bezoeken. 
+
+Als de wachtwoord reset niet werkt, bezoek a.u.b. Contact Wikia voor hulp.
+
+        Meer... Voorkeuren uitgelegd 
+
+Bewerken
+Een Wiki pagina veranderen
+
+File:Edit button.pngDe "Bewerk" knop Een pagina bewerken is gemakkelijk:
+
+   1. Klik op de Bewerken" link boven welk artikel dan ook. Als je dit doet
+zal een scherm openen dat eruit ziet als een tekstverwerker document.
+   2. Type je veranderingen in de tekst box. Tip:Het is een goed idee om je
+bewerking ter controle bekijken, en dan pas je bewerkingen op te slaan, scroll
+naar beneden en vind de "Pagina opslaan" knop en klik op pagina opslaan. Dit
+staat je toe om fouten te veranderen voordat ze opgeslagen worden op de Wiki. 
+
+Er is geen manier om een Wiki te breken, dus voel je vrij om meteen
+veranderingen te gaan maken.
+
+        Meer... Bewerk tips 
+
+
+Een bewerking Ongedaan Maken
+
+Slechte inhoud van de Wiki af houden is net zo belangrijk als goede inhoud toe
+te voegen. Daarom is het belangrijk om te weten hoe je een vorige versie van
+een artikel terugdraait.
+
+Elke bewerking die gemaakt wordt wordt opgeslagen op een Wiki, dat houd in dat
+het makkelijk is om een oude versie terug te halen na een fout of na
+vandalisme. Om een bewerking te veranderen voor een artikel, ga naar een
+artikel zijn "geschiedenis" pagina. Elke datum/tijd staat in een lijst op de
+pagina is een link naar een verschillende versie van dat artikel. Klik gewoon
+op welke versie je wil, en klik op bewerk, gevolgd door de opslaan knop. Wiki
+amdinistrators hebben een shortcut voor dit, en kunnen de meeste recente
+wijzigingen "rollbacken (ongedaan maken)".
+
+        Meer... Ongedaan maken en Rollback 
+
+Tekst formatteren
+
+File:Bold italic buttons.JPGJe kan ook tekst dikgedrukt en schuin maken door
+de tekst te selecteren en op de 'b' en 'i' knoppen bovenaan het bewerk gebied
+aan te klikken.
+
+    * Dikgedrukt: Omgeef een woord met drie enkele citaat tekens ('''). 
+
+    * Schuingedrukt: Gebruik twee citaat tekens (''). 
+
+    * Het samenvoegen: Je kan tekst dikgedrukt en schuingedrukt maken met vijf
+    * citaat tekens ('''''). 
+
+        Meer... Trendy formatteren 
+
+
+Naar een andere pagina op de Wiki linken
+
+Om naar een andere pagina te linken, dan moet je de pagina's titel tussen
+dubbele vierkante haken plaatsen. Om te linken naar de pagina "Voorbeeld", zou
+je [[Voorbeeld]] typen.
+
+Zo gauw je weet hoe je naar andere Wiki pagina's moet linken, dan ben je klaar
+om the haak truc te gebruiken.
+
+
+Een nieuwe pagina aanmaken
+
+File:Inputbox.pngInputbox van Recipes Wiki Om een nieuwe pagina te maken kan
+je vier basis methoden gebruiken:
+
+    * Klik op een rode (gebroken) link. Een gebroken link is een link naar een
+    * pagina die (nog) niet bestaat op de Wiki.
+    * Maak een rode link in een artikel door een woord in te sluiten met
+    * dubbele vierkante haakjes, en klik op opslaan. Op de rode link klikken
+    * leid je naar de nieuwe pagina.
+    * Gebruik een inputbox -- een artikel creatie box die geplaatst kan worden
+    * op de Wiki's hoofdpagina.
+    * Gebruik Special:CreatePage (info) 
+
+Onthoud om je onderwerp te zoeken voor je een nieuwe pagina maakt, dit is
+belangrijk op grote Wiki's omdat er grote kans is dat het onderwerp al gemaakt
+is door iemand anders en dus al bestaat.
+
+        Meer... Nieuwe pagina's uitgelegd 
+
+Pagina's Hernoemen (verplaatsen)
+
+File:Move page.pngNaar deze pagina zal je doorverwezen worden nadat je op de
+"Hernoemen" knop klikt. Elke ingelogde gebruiker kan pagina's hernoemen. Om
+dit te doen, klik op de "hernoemen" link bovenaan het artikel:
+
+   1. Klik op "hernoemen".
+   2. Type de correcte titel in
+   3. Klik op "pagina hernoemen". 
+
+Note: Het is een goed idee om uit te leggen waarom je hem verplaatste in de
+gegeven box.
+
+        Meer... Een bewegende ervaring... 
+
+Sjablonen gebruiken
+
+Een sjabloon is een pagina met tekst die klaar voor gebruik is op veel
+pagina's zonder dat je het iedere keer hoeft te typen. Het ziet eruit als een
+normale pagina, maar de titel begint met "Sjabloon:". Sjablonen zijn handig
+voor inhoud die aan veel pagina's op de Wiki ingevoegdm oet worden, omdat ze
+je de tijd en moeite besparen om dezelfde woorden en Wiki code steeds weer te
+typen.
+
+Om een sjabloon ge gebruiken, hoef je alleen maar de titel te typen tussen
+krullige haakjes. Dus {{naam}} voegt de tekst toe van de pagina Sjabloon:Name.
+
+Sjablonen kunnen erg complex worden, maar ze zijn gewoon pagina's die veel
+gebruikt worden d.m.v. een simpele vorm.
+
+        Meer... Sjabloon basis 
+
+Een afbeelding toevoegen
+
+File:Upload button.pngUpload link in de toolbox Er zijn drie manieren om een
+afbeelding toe te voegen:
+
+    * Upload het naar de Wiki door de upload link in de toolbox. Je kan dan
+    * een afbeelding van je computer kiezen, en hem opslaan op de Wiki. Dan
+    * kan je het [[Bestand:Naam.png]]. te typen. 
+
+    * Voeg een afbeelding toe terwijl je een pagina bewerkt. Klik gewoon op de
+    * upload knop Bestand:Button wmu.png en je zal een formulier zien om je
+    * afbeelding te uploaden en in te voegen. Zie Help:Add Image voor meer
+    * over deze methode. 
+
+File:Importfreeimages.pngImporteer Gratis Afbeeldingen zoek resultaat lijst
+
+    * De Importeert Gratis Afbeeldingen Knop: Importeer gratis afbeeldingen
+    * staat jou toe om gratis gelicenseerde flickr afbeeldingen toe te voegen
+    * zonder dat je je Wiki verlaat! Alles wat je hoeft te doen is te gaan
+    * naar Special:Importfreeimages en type waar je naar zoekt in de zoek box.
+    * Klik op zoek en thumbnails van Creative Commons licensed flickr
+    * afbeeldingen verschijnt. Klik op de (import dit) link onderaan een
+    * afbeelding om hem up te loaden op de Wiki. 
+
+        Meer... Hoe upload en weergeef ik een afbeelding? 
+
+Pagina's catoriseren
+
+Categorieen worden op dezelfde manier toegevoegd als hoe je links toevoegd.
+Voeg gewoon [[Categorie:Naam]] toe onderaan de pagina. Als je wil linken naar
+een categorie, en niet de pagina aan de categorie wil toevoegen, dan moet je
+een dubbelepunt toevoegen aan de link: [[:Categorie:Naam]].
+
+        Meer... Categorieen in de diepte 
+
+
+Wat nu
+
+Er zijn veel plaatsen waar je heen kan gaan voor hulp op Wikia. Als je nog
+niet de video demo's hebt gezien, bekijk ze op Help:Video demos. Ook, veel
+Wiki's hebben een forum waar je vragen kan stellen aan admins en reguliere
+bijdragers. Als alternatief kun je de wijdere Wikia community vragen stellen
+op het Central Wikia forums of op de Nederlandse Centrale Wikia forums. Als je
+meer informatie wil, zie Contact met Wikia. 

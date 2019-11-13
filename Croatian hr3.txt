@@ -1,0 +1,143 @@
+WebTest
+WebTest je besplatni program za provjeru znanja koji je namijenjen 
+uglavnom fakultetima, ali se takoder moze koristiti i u srednjim 
+skolama. Ima prilicno velik broj mogucnosti i vrlo je zanimljivog 
+izgleda. Program je izraden u kombinaciji s Flash-om i PHP-om, dok za 
+spremanje svih podataka (testova, pitanja, rjesenja i sl) koristi se 
+MySQL baza podataka.
+
+Najveca zanimljivost kod programa WebTest jest mogucnost koristenja 
+razlicitih tipova zadataka, kojih ima cetiri sto je vise nego sto 
+nudi vecina komercijalnih programa. Vrste zadataka koje nudi WebTest 
+su: odabir jednog tocnog odgovora, odabir vise tocnih odgovora, 
+spajanje parova, te nadopunjavanje teksta. Najveca zanimljivost su 
+spajanje parova i nadopunjavanje teksta. Kod spajanja parova 
+prakticki se doslovno linijom spaja par sa lijeve strane s 
+odgovarajucim parom s desne strane. Nadopunjavanje teksta je takoder 
+vrlo zanimljivo rijeseno. Zadat u kojemu ispitanik mora nadopunjavati 
+tekst ima cijeli tekst u kojemu se nalaze izmedu teksta kucice za 
+unos rijeci koje nedostaju u tekstu, vrlo dobro rjesenje.
+
+WebTest je vrlo dobar program i tesko je govoriti o nedostacima, no 
+ipak ih ima. Jedan od najvecih nedostataka jest nemogucnost dodavanja 
+slika u zadatke. To bi bila vrlo korisna opcija. No vjerujemo i 
+sugestiramo da se ovaj nedostatak dopuni u sljedecoj verziji.
+Jos jedan nedostatak jest sto WebTest prikazuje na dnu oglase (Google 
+AdSense), ali uzevsi u obzir da je program potpuno besplatan, to je 
+razumljivo, i rijeseno je tako da ne bude napadno, sto se mozda i ne 
+moze uzeti kao nedostatak.
+
+Sve u svemu, WebTest je vrlo dobar program, hrvatskog autora i na 
+hrvatskom jeziku sto mu daje jos vecu vaznost jer je prilagoden za 
+nase skolstvo. Program je vrlo zanimljiv i jos u svemu tome 
+besplatan. Svakako ga se isplati probati, meni se svidio, vjerojatno 
+ce se i Vama.
+
+Konacna ocjena bi bila 8/10
+
+
+
+- 14:03 - Komentari (4) - Isprintaj - #
+22.10.2009., cetvrtak
+Web edukacija - provjera znanja
+Provjera znanja je osnova ucenja. Postignuti rezultati kod 
+ispitivanja daju uvid u savladanost gradiva, usvojenost znanja i 
+ucenje. Provjera znanja ima vise uloga: inspiracija za ucenje, 
+procjena usvojenog gradiva, poboljsanje nastave i nastavnih 
+strategija, ispitivanje nastavnih programa i drugo. Kako skole i 
+sveucilista imaju sve vise studenata javlja se potreba za 
+pronalazenjem rjesenja koji ce pojednostaviti ispitivanje studenata, 
+te povecati kvalitetu i brzinu ocjenjivanja. Zbog toga mnoga 
+sveucilista razvijaju vlastita programska rjesenja koja ce im 
+olaksati ispitivanje i ocjenjivanje studenata, te provodenje nastave.
+
+
+ISPITIVANJE I OCJENJIVANJE PREKO WEBA
+Provjera znanja pomocu racunala (engl. e-assessment) je koristenje 
+racunala i racunalne tehnike u postupku ispitivanja i ocjenjivanja. 
+Provjera znanja pomocu racunala sve se vise koristi u mnogim skolama 
+i sveucilistima u svijetu. Upotrebom racunala za provjeru znanja i 
+ucenje
+studenata mogu se postici znacajne ustede vremena i novcanih 
+sredstava. Velika prednost provjere znanja pomocu racunala jest sto 
+je moguce vrlo brzo dobiti informaciju o postignutom rezultatu 
+(gotovo odmah nakon rjesavanja). Razlog tome je sto analizu rijesenog 
+testa vrsi
+racunalo koje ce taj posao puno brze napraviti nego covjek. Postoje 
+tri pojma kada se govori o koristenju racunala za provjeru znanja:
+* Ispitivanje pomocu racunala (engl. Computer-Aided/Assisted 
+Assessment) - bilo koji proces provjere znanja i ocjenjivanja u koje 
+je ukljuceno racunalo.
+* Ispitivanje bazirano na upotrebi racunala (engl. Computer Based 
+Assessment) - ovdje je rijec o automatiziranom procesu ispitivanja, 
+pri cemu se ispit izvodi na racunalu.
+* On-line ispitivanje (engl. On-line assessment) - upotreba racunala 
+i racunalne mreze za pristup i rjesavanje testova.
+
+
+On-line ispitivanje
+On-line ispitivanje ili ispitivanje preko weba je koristenje racunala 
+i racunalne mreze (Internet, LAN) za provjeru znanja. On-line sustav 
+za ispitivanje sadrzi dvije komponente:
+* Platforma za ispitivanje - sastoji se od programa za ispitivanje i 
+ocjenjivanje, te potrebnog sklopovlja na kojem se program pokrece.
+* Banka (baza) zadataka - skup zadataka koji se koristi za 
+ispitivanje.
+
+Sam program ne sadrzi zadatke pa je njih potrebno samostalno 
+kreirati. Program za provjeru znanja takoder ima sucelje pomocu 
+kojega nastavnici mogu kreirati zadatke. Ovaj postupak trazipuno 
+vremena, ali se jednom kreirani test moze koristiti niz godina. Banka 
+zadataka ima sljedece elemente:
+* Kreiranje testova i zadataka, te izmjena postojecih testova i 
+zadataka
+* Mogucnost isporuke razlicitih zadataka
+* Pregled postignutih rezultata
+* Sigurnost
+* Dostupnost
+
+
+Prednosti on-line ispitivanja
+Opcenito, provjera znanja uz pomoc racunala ima mnogobrojne prednosti 
+nad klasicnim nacinom ispitivanja. Kao prvo treba spomenuti ustedu 
+vremena i novcanih sredstava. Ukoliko se tim prednostima dodaju i 
+prednosti Interneta, zakljucuje se da su prednosti mnogobrojne:
+* Dostupnost na bilo kojem mjestu - ukoliko se aplikacija pokrece 
+preko udaljenog racunala (posluzitelja) na kojem se nalazi i njegova 
+banka zadataka, moze se pokrenuti s bilo kojega racunala koje ima 
+pristup Internetu.
+* Ponovljivost - mogucnost koristenja jednom napravljenog testa vise 
+godina, za studente sljedecih generacija, za studente drugih 
+razlicitih obrazovnih ustanova i slicno.
+* Usteda vremena - najvise vremena kod ovakvog nacina ispitivanja 
+potrosi se na kreiranje zadataka. Medutim jednom kreirani zadatci 
+mogu se koristiti vise godina. Analizarezultata je gotovo trenutna, 
+pa ispitivaci (nastavnici) ne moraju trositi vrijeme za analizu 
+svakog pojedinog testa.
+* Objektivnost i pouzdanost - s obzirom da racunalo analizira 
+rezultate, te dodjeljuje ocjenu prema unaprijed definiranom 
+kriteriju, ne postoji mogucnost pogreske u analizi testa.
+* Digitalni oblik - svi testovi, zadaci i rezultati su u digitalnom 
+obliku koji je povoljan za
+prijenos, uredivanje i pretrazivanje.
+* Privlacniji oblik ispitivanja - studentima je upotreba racunala uz 
+multimedijske dodatke privlacnija od klasicnog ispitivanja.
+
+
+Nedostatci on-line ispitivanja
+Uz sve prednosti postoje i neki nedostatci ovakvoga nacina 
+ispitivanja su:
+* Vrijeme potrebno za pripremu testa - vrijeme potrebno za pripremu 
+testa koji ce se provoditi On-line je puno vece nego kod pripreme 
+klasicnog testa. Medutim, jednom napravljeni test moze se koristiti 
+niz godina, a bitno je smanjeno vrijeme analize rezultata.
+* Sigurnosni problemi - kako se banka zadataka nalazi na posluzitelju 
+kojemu se moze pristupiti preko interneta, moguce je da hacker dode 
+do zadataka i rjesenja.
+* Problem s nadzorom - kod ovakvog nacina ispitivanja, moguce je 
+varanje pri rjesavanju ukoliko student nije pod strogim nadzorom. 
+Primjer varanja je trazenje tocnog rezultata pretrazivanjem Interneta.
+* Nemogucnost koristenja zadataka esejskog tipa
+
+
+Besplatna rjesenja za provjeru znanja

@@ -1,0 +1,40 @@
+Aanbieding: Gratis modem bij DDS ADSL.
+Tot en met 31 December 2011 bieden we een gratis wireless modem bij alle nieuwe ADSL en VDSL aansluitingen.
+Meer informatie...
+	DDS Introduceert VDSL.
+Met DDS ADSL 40 heb je een VDSL verbinding met een downloadsnelheid van max 40 Mbps en een uploadsnelheid van max 4 Mbps voor slechts 19,95 per maand (incl btw). Geen 'verborgen' aansluit of afsluit kosten en een gratis wireless modem.
+Meer informatie...
+	Instant Webapps
+Altijd al je eigen blog, forum, wiki of content management systeem willen hebben, maar is het installatie proces nog te ingewikkeld voor je? DDS maakt het makkelijk met Instant Webapps
+
+Instant Webapps zijn door DDS uitgekozen populaire web applicaties - gebaseerd op PHP/MySQL - die je direct vanuit je eigen accountbeheer pagina gemakkelijk kunt installeren binnen je DDS webruimte.
+
+Hierbij is dus geen uitgebreide kennis van de PHP programmeertaal nodig. Wij regelen dus de volledige upload, installatie en basis configuratie voor je.
+Meer informatie...
+	Let op: Phishing pogingen
+Onlangst zijn er grote aantallen e-mail berichten verstuurd naar DDS klanten die tot doel hadden je gebruikersnaam en wachtwoord te achterhalen (ook wel phishing genoemd). Dit soort mailtjes zijn NIET van ons afkomstig . En we raden je aan deze bij ontvangst direct te verwijderen (of als spam via de webmail te rapporteren) en vooral niet te beantwoorden. Heb je toch gebruikersgegevens afgestaan per e-mail dan raden we je aan om onmiddelijk je wachtwoord te wijzigen in accountbeheer, en even contact met ons op te nemen.
+	Email naar SMS.
+De SMS functie in DDS webmail is uitgebreid. Je kunt op je mobiel een SMS notificatie ontvangen van binnenkomende e-mail. De criteria in welke gevallen je een SMS wilt ontvangen kun je in webmail opgeven onder opties en dan filters. Voor het gebruik van deze functie dien je wel over SMS tegoed te beschikken. Log in op accountbeheer voor het opwaarderen van je SMS tegoed.
+	SMS versturen via de webmail.
+Je kunt nu vanuit de DDS webmail en het adresboek gemakkelijk SMS berichten versturen naar alle 06 nummers binnen nederland. Bestaande klanten hebben 3 gratis smsjes gekregen om de dienst uit te proberen.
+
+Stel eerst in accountbeheer even je eigen 06 nummer in om sms berichten te kunnen versturen. Bestellen van SMS bundels kan ook via accountbeheer. Een smsje versturen kan al vanaf 10ct per bericht.
+	Online HTML Editor in Vdrive
+Toegevoegd aan DDS Vdrive is de mogelijkheid om html pagina's te bewerken met een online html editor. Je kunt dus in het vervolg vanaf iedere locatie met internettoegang je site aanpassen. Ook kun je nieuwe html pagina's aanmaken vanuit je vdrive. Gastgebruikers die schrijfrechten hebben in een map kunnen eveneens gebruik maken van de editor functie.
+	Gratis Digitaal fotoalbum bij DDS
+DDS introduceert een nieuwe applicatie waarmee je makkelijk foto's kunt publiceren op het net. Het online fotoalbum zit standaard bij het DDS Basispakket. Meer informatie...
+	PHP5 Ondersteuning
+DDS biedt als een van de eerste Nederlandse providers nu ook ook PHP versie 5 ondersteuning. Het upgraden naar PHP5 kost niets extra. Via je accountbeheer pagina kun je instellen of je PHP 4 of PHP 5 wilt gebruiken voor je homepage.
+
+Met PHP en MySQL heb je de mogelijkheid om je website te voorzien van allerlei interactieve applicaties en software. Denk hierbij aan content management systemen, forums, guestbooks en blogs.
+
+Je hebt de PHP en MySQL uitbereiding al vanaf EUR 2,75 per maand. Meer informatie...
+	Gratis virusscanning op e-mail
+DDS biedt nu ook gratis virusscanning. Dit betekent dat alle e-mail die je ontvangt op je DDS e-mailadres eerst door een virusfilter gaat op de DDS server. Met virusscanning wordt het DDS basispakket nog completer. Het DDS virusfilter is gratis net als het DDS spamfilter. Meer info over virusscanning
+	DDS Domeinnaamregistratie
+DDS biedt de mogelijkheid om een domeinnaam te registreren. Met je eigen domeinnaam ben je bereikbaar per e-mail op alles@jouwdomein.nl en je website is dan bereikbaar op www.jouwdomein.nl
+
+Als je een domein bij DDS registreert krijg je het eerste jaar 10 euro korting. Je betaalt voor een .nl domein dus slechts EUR 8,- voor het eerste jaar!
+
+Registreren van een domeinnaam kan hier...
+

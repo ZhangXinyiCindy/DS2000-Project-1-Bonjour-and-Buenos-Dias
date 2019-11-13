@@ -1,0 +1,27 @@
+In an Open-Source Society, Innovating by the Seat of Our Pants
+
+The Internet isn't really a technology. It's a belief system, a philosophy about the effectiveness of decentralized, bottom-up innovation. And it's a philosophy that has begun to change how we think about creativity itself.
+
+Almost 20 years ago, I installed on my computer a tiny piece of software called MacPPP, which connected the programs running on it to the Internet. The program immediately transformed my computer from a fancy telex machine to a device running a very early version of the graphical Web.
+
+I was working in entertainment at the time, and I remember thinking that this connection was going to change everything. I left to join the first commercial Internet service provider in Japan, PSINet Japan, as its first chief executive. Our first serious challenge, oddly enough, was a battle over an obscure information-sharing computer protocol called X.25. Most of us laboring to build the new Internet preferred the less regulated and simpler Internet Protocol.
+
+Until then, large intergovernmental agencies had always gathered experts to work on the technical standards that would become the DNA of the telecommunications industry, the standards to which all companies would have to build their networks and products. These researchers had produced X.25, a complex and extremely well-considered standard that seemed to anticipate every possible problem and application.
+
+The Internet, on the other hand, was designed and deployed by small groups of researchers following the credo of one of its chief architects, David Clark: "rough consensus and running code." Its early standards   uncomplicated, consensual   were stewarded by small organizations that resisted permission or authority. And they won: The Internet Protocol on which every connected device relies was a triumph of distributed innovation over centralized expertise.
+
+The ethos of the Internet is that everyone should have the freedom to connect, to innovate, to program, without asking permission. No one can know the whole of the network, and by design it cannot be centrally controlled. This network was intended to be decentralized, its assets widely distributed. Today most innovation springs from small groups at its "edges."
+
+This technical strategy has led to the creation of a gigantic network of far-flung innovators who develop standards with one another and share the products of their work in the form of free and open-source software. The architecture of the Internet and its abundance of free software and components has driven down the cost of manufacturing, distribution and collaboration   of innovation. It used to cost millions of dollars to start a software company. Today, for little or no money, entrepreneurs are able to develop and release a "minimum viable product" and test it with real users on the Internet before they have to raise any money from investors. In their earliest iterations, Facebook, Yahoo and Google were running in dorm rooms and labs before the founders had left college or had raised outside money.
+
+In fact, it is now usually cheaper to just try something than to sit around and try to figure out whether to try something. The product map is now often more complex and more expensive to create than trying to figure it out as you go. The compass has replaced the map, and "rough consensus and running code" has become the fundamental philosophy for the so-called lean start-up movement.
+
+Innovators are able to prototype a new product with 3-D printers and cheap laser cutters for nearly nothing. Even complex products can be manufactured with help from supply chain companies that are making their systems available online to anybody. Today we are seeing the emergence of a community of hardware hackers and designers very reminiscent of the developers who wrote the original open standards of the Internet. An explosion of grass-roots innovation in hardware is coming   freely designed and freely shared   as it did in software.
+
+What has been a wildly successful model for consumer Internet start-ups in Silicon Valley turns out to be an extremely good model for learning in a wide variety of fields and disciplines. The students at M.I.T.'s Media Lab experiment, create and iterate; they produce demos and prototypes, and share and collaborate with the rest of the world through the Internet and a distributed network of connections and relationships.
+
+I don't think education is about centralized instruction anymore; rather, it is the process establishing oneself as a node in a broad network of distributed creativity.
+
+Neoteny, one of my favorite words, means the retention of childlike attributes in adulthood: idealism, experimentation and wonder. In this new world, not only must we behave more like children, we also must teach the next generation to retain those attributes that will allow them to be world-changing, innovative adults who will help us reinvent the future.
+
+Joichi Ito is the director of the M.I.T. Media Lab.

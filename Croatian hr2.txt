@@ -1,0 +1,143 @@
+Brz razvoj anglosaksonske informatike relativno je dugo stavljao 
+ostale narode u teskoce pogotovo kad je trebalo obradivati tekstove 
+na njihovim jezicima i pismima koja su se bar malo kao sto je to u 
+njemackom, francuskom, spanjolskom ili jako, kao sto je to u ruskom, 
+japanskom ili kineskom jeziku razlikovala od engleske latinice. 
+Spontana rjesenja su se nalazila u koristenju editora s naredbama na 
+engleskom jeziku te se cinilo da i na taj nacin engleski kao najvise 
+upotrebljavani strani jezik u svijetu preuzima potpunu dominaciju 
+istiskujuci razvoj informatickog nazivlja u "lokalnim" jezicima. sito
+
+Ali, kapital ne bi bio ono sto jest, kad ne bi otkrio da takva gotovo 
+apsolutna dominacija engleskog postaje smetnja jacem sirenju trzista, 
+pa su pored standardnih Windows-a nacinjeni i istocno-europski 
+Windows-i koji prihvacaju sva specificna slova u jezicima istocne 
+Europe. A Microsoft-ov WORD poceo je uvoditi i rjecnicka sita 
+(spelling checkere) za te jezike pa je tako vec uvedeno i rjecnicko 
+sito za slovenski jezik.
+
+Hrvatska se prikljucuje obitelji onih jezika koji imaju rjecnicko 
+sito za WORD, programom SITO, trgovackog drustva FILOS d.o.o. iz 
+Zagreba.
+
+Iza tog programa stoje godine istrazivackog i razvojnog rada, jer se 
+hrvatski jezik po bogatstvu svoje morfologije jako razlikuje od 
+engleskog jezika koji svoju izrazajnost ostvaruje fiksnim redom 
+gotovo nepromjenjivih rijeci sto se u tom redu slazu u nova znacenja. 
+Hrvatski, naprotiv, ne samo nova znacenja vec i isto znacenje u 
+razlicitim kontekstima izrazava raznim oblicima iste rijeci 
+(padezima, jedninom i mnozinom, vidovima, vremenima i licima i 
+tvorbom). Pa iako informacijska teorija pokazuje da su izrazajne 
+mogucnosti svih jezika priblizno podjednake, svodenje racunalnih 
+rjecnika na istu kolicinu osnovnih podataka u razlicitim jezicima 
+mora se organizirati na razlicite nacine. S;to jezik ima razvijeniju 
+morfologiju to je takvo svodenje kompliciranije i teze.
+
+FILOS je uspio naciniti rjecnik koji po opsegu neznatno premasuje 
+engleski rjecnik ugraden u WORD, pretrazuje se jednako brzo kao i 
+engleski mada je po broju rijeci 10 puta veci, a ponudene zamjene za 
+krivo upisane rijeci, zahvaljujuci vlastitim rjesenjima, nudi znatno 
+brze od engleskoga.
+
+
+Kako radi sito?
+SITO radi kao makroinstrukcija WORD-a u backgroundu. To znaci, da 
+cete, editirajuci neku tekstualnu datoteku u WORD-u, skljocajem 
+(klikom) na ikonu SITO pozvati SITO da "prosije" rijeci vase datoteke.
+
+sitolm
+
+Svi koji su koristili engleski spelling checker znaju za postojanje 
+"osobnog rjecnika" (Personal.dic) koji omogucava da se unese 
+ograniceni broj novih rijeci. Nezgoda tog rjecnika je u tome sto on 
+usporava rad spelling checkera s jedne strane, a s druge strane on ne 
+prepoznaje kao iste rijeci engleske imenice u jednini i mnozini pa su 
+rijeci BOOK i BOOKS dvije rijeci koje se moraju tako i unijeti. Ako 
+to ne ucinite, spelling checker ce javljati gresku za onu rijec koje 
+nema u tom rjecniku. SITO takoder posjeduje osobni rjecnik koji 
+mozete sami izgradivati. Ali, bogata morfologija hrvatskog jezika 
+trazit ce da svaku rijec upisete u svim njezinim oblicima, sto ce 
+ubrzo postati zamorno. To je razlog zbog koga mi preporucamo da nam 
+datoteku s podacima o novim rijecima posaljete nama kako bismo mi 
+svaki vas "osobni rjecnik" naravno, posto ga mi profesionalno 
+dopunimo svim ostalim oblicima rijeci, ugradili u osnovni rjecnik i 
+time Vas oslobodili ljutnje sto "taj glupi program ne prepoznaje 
+razne oblike iste rijeci".
+
+Da, nase SITO prepoznaje sve oblike hrvatskih rijeci koje su kao 
+osnovne rijeci u njega unesene, ono je po tome nase i hrvatsko i ono 
+je po tome dovoljno inteligentno da Vas oslobodi nuzde da o hrvatskim 
+rijecima mislite na engleski nacin tj. da su KNJIGA, KNJIGE, KNJIZI, 
+KNJIGU, KNJIGO, KNJIGOM i KNJIGAMA razlicite rijeci koje treba 
+unositi u rjecnik ponaosob. A o stotinjak oblika pridjeva i jos vise 
+glagola s glagolskim pridjevima da i ne govorimo!
+
+sitomap
+
+U rjecnik je ugradeno 120.000 rijeci-natuknica koje tvore 1,500.000 
+razlicnica. Takav rjecnik obuhvaca 4.800.000 gramatickih oblika.
+
+I to nije sve!! SITO Plus paket sadrzi i SITO Alate, pomocu kojih 
+mozete jednostavno tekst s interneta pisan u CZSDJ formatu (bez 
+hrvatskih slova) pretvoriti u normalni hrvatski tekst!!
+
+I?? I jos nesto!! SITO Maestro donosi sa sobom i tzv. HR-Find. Kako 
+pronaci gdje se sve nalazi u Vasem tekstu rijec covjek? Pomocu 
+standardne MSWordo-ve 'Find' komande mozemo pronaci samo zadani oblik 
+rijeci, a pomocu SITA SVE OBLIKE!! (covjek, covjeka, ... ljudi.. 
+ljudima)
+
+sito2
+
+Instalacija SITA spada u jednu od najjednostavnijih; potrebno je u 
+Vas MSWord ucitati dokument 'SitoInst.doc' i zatvoriti ga! I GOTOVO!
+
+sito3
+SITO PLUS PAKET u Maestru sadrzi:
+S obzirom na to da jos uvijek nije dokraja rijeseno pitanje 
+standardnog koda hrvatskih slova (pa i elektronicku postu moramo 
+pisati bez njih) uz SITO nudimo i pretvornike:
+
+    * Pretvornik kodnih tabela ISO 8859-2,DOS 852, DOS 437, WIN 1250
+    * Pretvornik hrvatskih slova CC;ZS;D; u CZSDJ, ako hocemo 
+brzo pripremiti vec gotov tekst za elektronicku postu koji radi 
+potpuno automatski.
+    * Pretvornik CZSDJ u hrvatska slova CC;&17d;S;D; koji automatski 
+zamjenjuje svaku rijec, za koju je u rjecniku nasao samo jednu 
+zamjenu, a radi interaktivno u slucaju da je pretvornik nasao dvije 
+ili vise mogucih zamjena (n.pr. sustav i sustav).
+    * Hrvatski trazitelj (HR Find) pomocu kojega trazenje hrvatskih 
+rijeci unutar Vaseg teksta postaje moguce!
+
+
+
+
+novo Postovani dosadasnji i buduci korisnici! Zbog povecane prosjecne 
+mjesecne prodaje FILOS je za SITO Maestro Plus 2.0 spustio cijenu na 
+377,59 Kn (PDV ukljucen).
+
+
+
+Cijena jedne licence SITA 309,50 Kn + PDV
+
+    * Ukljuceni troskovi dostave za Hrvatsku!
+
+    * Odobravamo rabat za distributere!
+
+    * Moguca kupnja 'company' licence!
+
+
+
+
+Vazno!! Nadogradili ste Vas MSWord na verziju 97 ili 2000.... Sve je 
+u redu, ali Vas stari spelling checker za hrvatski ne radi... Ne 
+ocajavajte! FILOS Vam pruza mogucnost nabave najnovije verzije SITO 
+PLUS paketa sa velikim popustom uz predocenje dokaza o kupnji Vaseg 
+starog spelling checkera!!
+
+Obavijest korisnicima MSWord-a 6.0/7.0
+
+Svaki kupac SITO Maestro Plus paketa moze BESPLATNO naruciti SITO za 
+starije verzije MSWord-a!
+
+
